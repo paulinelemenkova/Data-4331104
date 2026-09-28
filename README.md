@@ -4,7 +4,7 @@ This repository contains the computational framework accompanying the peer-revie
 
 ## Associated publication
 
-Lemenkova, P.; Zülfikar, A.C. (2026). Artificial Intelligence and Big Data Analytics for Seismic Hazard Assessment: Methodological Advances and Computational Frameworks for the Marmara Region, Türkiye. *Data*, 11(6), 131. ISSN 2306-5729.
+Lemenkova, P. (2026). Artificial Intelligence and Big Data Analytics for Seismic Hazard Assessment: Methodological Advances and Computational Frameworks for the Marmara Region, Türkiye. *Data*, 11(6), 131. ISSN 2306-5729.
 
 Indexed in Scopus and Web of Science.
 
@@ -40,10 +40,10 @@ Python 3 with Apache Spark (PySpark) and Delta Lake; NumPy, SciPy and pandas; Py
 
 ## Authors
 
-Polina Lemenkova and Abdullah Can Zülfikar
+Polina Lemenkova
 
 Polina Lemenkova — ORCID: https://orcid.org/0000-0002-5759-1089
 
 ## License
 
-MIT — see the LICENSE file (Copyright Polina Lemenkova and Abdullah Can Zülfikar).
+MIT — see the LICENSE file (Copyright Polina Lemenkova).
